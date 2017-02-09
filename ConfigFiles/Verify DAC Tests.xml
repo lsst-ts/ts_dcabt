@@ -1,0 +1,159 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>Verify DAC Tests</Name>
+<NumElts>11</NumElts>
+<Cluster>
+<Name>DAC A Channels</Name>
+<NumElts>3</NumElts>
+<Refnum>
+<Name>DAQ Channel 1 to Read</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val>ai2</Val>
+</Refnum>
+<Refnum>
+<Name>DAQ Channel 2 to Read</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val>ai3</Val>
+</Refnum>
+<DBL>
+<Name>Resistor Ohms</Name>
+<Val>4.23000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC B Channels</Name>
+<NumElts>3</NumElts>
+<Refnum>
+<Name>DAQ Channel 1 to Read</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val>ai6</Val>
+</Refnum>
+<Refnum>
+<Name>DAQ Channel 2 to Read</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val>ai7</Val>
+</Refnum>
+<DBL>
+<Name>Resistor Ohms</Name>
+<Val>4.22400000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC = -1.00A</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Expected Value</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC = -0.75A</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Expected Value</Name>
+<Val>-0.75000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC = -0.50A</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Expected Value</Name>
+<Val>-0.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC = -0.25A</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Expected Value</Name>
+<Val>-0.25000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC = 0.00A</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Expected Value</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC = 0.25A</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Expected Value</Name>
+<Val>0.25000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC = 0.50A</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Expected Value</Name>
+<Val>0.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC = 0.75A</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Expected Value</Name>
+<Val>0.75000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>DAC = 1.00A</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Expected Value</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+</Cluster>
+</Cluster>
+</LvVariant>
+</LVData>

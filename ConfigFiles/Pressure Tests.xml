@@ -1,0 +1,99 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>Pressure Tests</Name>
+<NumElts>7</NumElts>
+<Cluster>
+<Name>0% Test</Name>
+<NumElts>3</NumElts>
+<U16>
+<Name>Command</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Expected</Name>
+<Val>1933</Val>
+</U16>
+<U16>
+<Name>Tolerance</Name>
+<Val>492</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>25% Test</Name>
+<NumElts>3</NumElts>
+<U16>
+<Name>Command</Name>
+<Val>12322</Val>
+</U16>
+<U16>
+<Name>Expected</Name>
+<Val>4095</Val>
+</U16>
+<U16>
+<Name>Tolerance</Name>
+<Val>492</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>50% Test</Name>
+<NumElts>3</NumElts>
+<U16>
+<Name>Command</Name>
+<Val>26326</Val>
+</U16>
+<U16>
+<Name>Expected</Name>
+<Val>6553</Val>
+</U16>
+<U16>
+<Name>Tolerance</Name>
+<Val>492</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>75% Test</Name>
+<NumElts>3</NumElts>
+<U16>
+<Name>Command</Name>
+<Val>40329</Val>
+</U16>
+<U16>
+<Name>Expected</Name>
+<Val>9010</Val>
+</U16>
+<U16>
+<Name>Tolerance</Name>
+<Val>492</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>100% Test</Name>
+<NumElts>3</NumElts>
+<U16>
+<Name>Command</Name>
+<Val>54332</Val>
+</U16>
+<U16>
+<Name>Expected</Name>
+<Val>11468</Val>
+</U16>
+<U16>
+<Name>Tolerance</Name>
+<Val>492</Val>
+</U16>
+</Cluster>
+<U16>
+<Name>Settling (ms)</Name>
+<Val>500</Val>
+</U16>
+<U16>
+<Name>Delay (ms)</Name>
+<Val>10</Val>
+</U16>
+</Cluster>
+</LvVariant>
+</LVData>

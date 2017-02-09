@@ -1,0 +1,43 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>Enable Disable</Name>
+<NumElts>8</NumElts>
+<U16>
+<Name>Motor Enable</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Motor Disable</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Current Output Enable</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Current Output Disable</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Power Enable</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Power Disable</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Amplifier Enable</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Amplifier Disable</Name>
+<Val>1</Val>
+</U16>
+</Cluster>
+</LvVariant>
+</LVData>

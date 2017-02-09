@@ -1,0 +1,59 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>Supply Voltage Tests</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>3.3 V Supply</Name>
+<NumElts>4</NumElts>
+<Refnum>
+<Name>Analog Supply DAQ Channel to Read</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val>ai1</Val>
+</Refnum>
+<Refnum>
+<Name>Digital Supply DAQ Channel to Read</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val>ai0</Val>
+</Refnum>
+<DBL>
+<Name>Expected Value</Name>
+<Val>3.30000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>6.60000000000000E-2</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>5 V Supply</Name>
+<NumElts>4</NumElts>
+<Refnum>
+<Name>Analog Supply DAQ Channel to Read</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val>ai2</Val>
+</Refnum>
+<Refnum>
+<Name>Digital Supply DAQ Channel to Read</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val>AI3</Val>
+</Refnum>
+<DBL>
+<Name>Expected Value</Name>
+<Val>5.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tolerance</Name>
+<Val>0.10000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+</LvVariant>
+</LVData>

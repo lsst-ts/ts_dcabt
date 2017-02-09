@@ -1,0 +1,83 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>Set DAC Tests</Name>
+<NumElts>9</NumElts>
+<Cluster>
+<Name>DAC = 0.00A</Name>
+<NumElts>1</NumElts>
+<U16>
+<Name>Command Value</Name>
+<Val>34224</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>DAC = 0.25A</Name>
+<NumElts>1</NumElts>
+<U16>
+<Name>Command Value</Name>
+<Val>42052</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>DAC = 0.5A</Name>
+<NumElts>1</NumElts>
+<U16>
+<Name>Command Value</Name>
+<Val>49879</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>DAC = 0.75A</Name>
+<NumElts>1</NumElts>
+<U16>
+<Name>Command Value</Name>
+<Val>57707</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>DAC = 1.0A</Name>
+<NumElts>1</NumElts>
+<U16>
+<Name>Command Value</Name>
+<Val>65535</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>DAC = -0.25A</Name>
+<NumElts>1</NumElts>
+<U16>
+<Name>Command Value</Name>
+<Val>26396</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>DAC = -0.5A</Name>
+<NumElts>1</NumElts>
+<U16>
+<Name>Command Value</Name>
+<Val>18568</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>DAC = -0.75A</Name>
+<NumElts>1</NumElts>
+<U16>
+<Name>Command Value</Name>
+<Val>10740</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>DAC = -1.0A</Name>
+<NumElts>1</NumElts>
+<U16>
+<Name>Command Value</Name>
+<Val>0</Val>
+</U16>
+</Cluster>
+</Cluster>
+</LvVariant>
+</LVData>

@@ -1,0 +1,23 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>Collection Settings</Name>
+<NumElts>3</NumElts>
+<I32>
+<Name>Samples To Average</Name>
+<Val>3</Val>
+</I32>
+<DBL>
+<Name>Test Delay</Name>
+<Val>5.00000000000000E-2</Val>
+</DBL>
+<I32>
+<Name>Linearity Step</Name>
+<Val>1023</Val>
+</I32>
+</Cluster>
+</LvVariant>
+</LVData>
