@@ -8,7 +8,7 @@
 <NumElts>4</NumElts>
 <Path>
 <Name>Log Directory</Name>
-<Val>\\lsst-lab2\ilcbt-data</Val>
+<Val>\\lsst-lab2\dcabt-data</Val>
 </Path>
 <String>
 <Name>Log Filename Base</Name>

@@ -11,7 +11,7 @@
 <NumElts>1</NumElts>
 <U16>
 <Name>Command Value</Name>
-<Val>34224</Val>
+<Val>33462</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -19,7 +19,7 @@
 <NumElts>1</NumElts>
 <U16>
 <Name>Command Value</Name>
-<Val>42052</Val>
+<Val>41380</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -27,7 +27,7 @@
 <NumElts>1</NumElts>
 <U16>
 <Name>Command Value</Name>
-<Val>49879</Val>
+<Val>49298</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -35,7 +35,7 @@
 <NumElts>1</NumElts>
 <U16>
 <Name>Command Value</Name>
-<Val>57707</Val>
+<Val>57216</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -43,7 +43,7 @@
 <NumElts>1</NumElts>
 <U16>
 <Name>Command Value</Name>
-<Val>65535</Val>
+<Val>65134</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -51,7 +51,7 @@
 <NumElts>1</NumElts>
 <U16>
 <Name>Command Value</Name>
-<Val>26396</Val>
+<Val>25544</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -59,7 +59,7 @@
 <NumElts>1</NumElts>
 <U16>
 <Name>Command Value</Name>
-<Val>18568</Val>
+<Val>17626</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -67,7 +67,7 @@
 <NumElts>1</NumElts>
 <U16>
 <Name>Command Value</Name>
-<Val>10740</Val>
+<Val>9708</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -75,7 +75,7 @@
 <NumElts>1</NumElts>
 <U16>
 <Name>Command Value</Name>
-<Val>0</Val>
+<Val>1790</Val>
 </U16>
 </Cluster>
 </Cluster>

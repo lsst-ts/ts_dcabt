@@ -8,7 +8,7 @@
 <NumElts>3</NumElts>
 <I32>
 <Name>Samples To Average</Name>
-<Val>3</Val>
+<Val>10</Val>
 </I32>
 <DBL>
 <Name>Test Delay</Name>

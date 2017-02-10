@@ -55,7 +55,7 @@
 </DBL>
 <DBL>
 <Name>Tolerance</Name>
-<Val>1.00000000000000E-2</Val>
+<Val>5.00000000000000E-2</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -67,7 +67,7 @@
 </DBL>
 <DBL>
 <Name>Tolerance</Name>
-<Val>1.00000000000000E-2</Val>
+<Val>5.00000000000000E-2</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -79,7 +79,7 @@
 </DBL>
 <DBL>
 <Name>Tolerance</Name>
-<Val>1.00000000000000E-2</Val>
+<Val>5.00000000000000E-2</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -91,7 +91,7 @@
 </DBL>
 <DBL>
 <Name>Tolerance</Name>
-<Val>1.00000000000000E-2</Val>
+<Val>5.00000000000000E-2</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -103,7 +103,7 @@
 </DBL>
 <DBL>
 <Name>Tolerance</Name>
-<Val>1.00000000000000E-2</Val>
+<Val>5.00000000000000E-2</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -115,7 +115,7 @@
 </DBL>
 <DBL>
 <Name>Tolerance</Name>
-<Val>1.00000000000000E-2</Val>
+<Val>5.00000000000000E-2</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -127,7 +127,7 @@
 </DBL>
 <DBL>
 <Name>Tolerance</Name>
-<Val>1.00000000000000E-2</Val>
+<Val>5.00000000000000E-2</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -139,7 +139,7 @@
 </DBL>
 <DBL>
 <Name>Tolerance</Name>
-<Val>1.00000000000000E-2</Val>
+<Val>5.00000000000000E-2</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -151,7 +151,7 @@
 </DBL>
 <DBL>
 <Name>Tolerance</Name>
-<Val>1.00000000000000E-2</Val>
+<Val>5.00000000000000E-2</Val>
 </DBL>
 </Cluster>
 </Cluster>
