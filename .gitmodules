@@ -1,0 +1,24 @@
+[submodule "Common_ILC"]
+	path = Common_ILC
+	url = https://stash.lsstcorp.org/scm/ts/common_ilc.git
+[submodule "Common_SerialProtocols"]
+	path = Common_SerialProtocols
+	url = https://stash.lsstcorp.org/scm/ts/common_serialprotocols.git
+[submodule "Common_Simulators_SimulateSerialData"]
+	path = Common_Simulators_SimulateSerialData
+	url = https://stash.lsstcorp.org/scm/ts/common_simulators_simulateserialdata.git
+[submodule "Common_Log"]
+	path = Common_Log
+	url = https://stash.lsstcorp.org/scm/ts/common_log.git
+[submodule "Common_ConfigurationReader"]
+	path = Common_ConfigurationReader
+	url = https://stash.lsstcorp.org/scm/ts/common_configurationreader.git
+[submodule "Common_ConfigurationEditor"]
+	path = Common_ConfigurationEditor
+	url = https://stash.lsstcorp.org/scm/ts/common_configurationeditor.git
+[submodule "Common_Simulators_ILCSim1"]
+	path = Common_Simulators_ILCSim1
+	url = https://stash.lsstcorp.org/scm/ts/common_simulators_ilcsim1.git
+[submodule "Common_Simulators_ILCSimulatorSignals"]
+	path = Common_Simulators_ILCSimulatorSignals
+	url = https://stash.lsstcorp.org/scm/ts/common_simulators_ilcsimulatorsignals.git
